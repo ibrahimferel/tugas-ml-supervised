@@ -2,7 +2,7 @@
 # Tugas-2-Supervised-Learning
 | Nama              | NRP        |
 |-------------------|------------|
-| (nama)            | (nrp)      |
+| Ibrahim Ferel            | 5025241049      |
 
 ## Deskripsi Tugas
 Tugas ini merupakan implementasi template untuk pengerjaan tugas Supervised Learning. Template ini mencakup langkah-langkah sistematis mulai dari import dataset hingga rangkuman hasil, dengan fokus pada analisis dan pemodelan data menggunakan algoritma machine learning.
